@@ -1,5 +1,3 @@
-Sure! Here's a template for a README file for a GitHub repository focused on creating various data structures and applying them in different use cases.
-
 ---
 
 # Data Structures from Scratch
