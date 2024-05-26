@@ -11,7 +11,6 @@ Welcome to the **Data Structures from Scratch** repository! This project involve
 - [Data Structures Included](#data-structures-included)
 - [Use Cases](#use-cases)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -59,29 +58,13 @@ Each data structure comes with examples demonstrating its application in various
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/data-structures-from-scratch.git
+git clone https://github.com/ignasxv/data-structures-from-scratch.git
 ```
 
 Navigate to the project directory:
 
 ```bash
 cd data-structures-from-scratch
-```
-
-## Usage
-
-Each data structure is contained within its own directory. To explore and use a specific data structure, navigate to its directory and follow the instructions in the respective README file.
-
-For example, to explore the implementation of a binary search tree:
-
-```bash
-cd trees/binary-search-tree
-```
-
-Run the provided examples:
-
-```bash
-python example.py
 ```
 
 ## Contributing
@@ -99,5 +82,3 @@ Contributions are welcome! If you have any improvements or additional data struc
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this template according to your specific project details and preferences.
